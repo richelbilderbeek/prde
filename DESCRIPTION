@@ -8,7 +8,7 @@ Description: This is an example package. It is used as an example
   for the talk 'Professional R development'
   (https://github.com/richelbilderbeek/PresentationsAboutR). This
   package builds successfully. Using tools it is shown
-  that the package can be improved
+  that the package can be improved.
 License: GPL-3
 LazyData: TRUE
 RoxygenNote: 5.0.1
