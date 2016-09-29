@@ -1,4 +1,4 @@
-#' Multiples as values by two, except 42, which stays 42
+#' Multiples all values by two, except 42, which stays 42
 #' @param x input, must be numeric
 #' @return magicified output
 #' @export

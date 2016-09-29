@@ -2,7 +2,7 @@
 % Please edit documentation in R/do_magic.R
 \name{do_magic}
 \alias{do_magic}
-\title{Multiples as values by two, except 42, which stays 42}
+\title{Multiples all values by two, except 42, which stays 42}
 \usage{
 do_magic(x)
 }
@@ -13,6 +13,6 @@ do_magic(x)
 magicified output
 }
 \description{
-Multiples as values by two, except 42, which stays 42
+Multiples all values by two, except 42, which stays 42
 }
 
