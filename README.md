@@ -6,6 +6,8 @@
 
 Professional R Development Example.
 
-This code is used in the 'Professional R development' presentation
-at [my PresentationsAboutR GitHub](https://github.com/richelbilderbeek/PresentationsAboutR).
+This code is used in the 'Professional R development' presentation:
+  * [Video presentation](http://streaming3.service.rug.nl/p2gplayer/Player.aspx?id=c9GNy2)
+  * [Presentation slides](https://github.com/richelbilderbeek/PresentationsAboutR)
+
 
